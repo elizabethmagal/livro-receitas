@@ -3,6 +3,7 @@
 Olá! Bem vindo ao livro receitas :wave:
 
 - Strogonoff de Frango
+- Pavê
 
 
 
